@@ -1,0 +1,3 @@
+C:\Users\sinan\source\repos\İnterfaces_two\İnterfaces_two\obj\Debug\İnterfaces_two.csproj.AssemblyReference.cache
+C:\Users\sinan\source\repos\İnterfaces_two\İnterfaces_two\obj\Debug\İnterfaces_two.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinan\source\repos\İnterfaces_two\İnterfaces_two\obj\Debug\İnterfaces_two.csproj.CoreCompileInputs.cache

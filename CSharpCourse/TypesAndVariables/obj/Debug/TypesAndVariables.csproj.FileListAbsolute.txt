@@ -1,0 +1,8 @@
+C:\Users\sinan\source\repos\c_shrap_course\TypesAndVariables\bin\Debug\TypesAndVariables.exe.config
+C:\Users\sinan\source\repos\c_shrap_course\TypesAndVariables\bin\Debug\TypesAndVariables.exe
+C:\Users\sinan\source\repos\c_shrap_course\TypesAndVariables\bin\Debug\TypesAndVariables.pdb
+C:\Users\sinan\source\repos\c_shrap_course\TypesAndVariables\obj\Debug\TypesAndVariables.csproj.AssemblyReference.cache
+C:\Users\sinan\source\repos\c_shrap_course\TypesAndVariables\obj\Debug\TypesAndVariables.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinan\source\repos\c_shrap_course\TypesAndVariables\obj\Debug\TypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\sinan\source\repos\c_shrap_course\TypesAndVariables\obj\Debug\TypesAndVariables.exe
+C:\Users\sinan\source\repos\c_shrap_course\TypesAndVariables\obj\Debug\TypesAndVariables.pdb

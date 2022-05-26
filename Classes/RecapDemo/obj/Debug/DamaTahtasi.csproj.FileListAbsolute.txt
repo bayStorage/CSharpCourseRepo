@@ -1,0 +1,9 @@
+C:\Users\sinan\source\repos\Classes\RecapDemo\obj\Debug\DamaTahtasi.csproj.AssemblyReference.cache
+C:\Users\sinan\source\repos\Classes\RecapDemo\obj\Debug\DamaTahtasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinan\source\repos\Classes\RecapDemo\obj\Debug\DamaTahtasi.DamaTahtası.resources
+C:\Users\sinan\source\repos\Classes\RecapDemo\obj\Debug\RecapDemo.Properties.Resources.resources
+C:\Users\sinan\source\repos\Classes\RecapDemo\obj\Debug\DamaTahtasi.csproj.GenerateResource.cache
+C:\Users\sinan\source\repos\Classes\RecapDemo\obj\Debug\DamaTahtasi.csproj.CoreCompileInputs.cache
+C:\Users\sinan\source\repos\Classes\RecapDemo\obj\Debug\RecapDemo.exe
+C:\Users\sinan\source\repos\Classes\RecapDemo\obj\Debug\RecapDemo.pdb
+C:\Users\sinan\source\repos\Classes\RecapDemo\obj\Debug\DamaTahtasi.DamaTahtasi.resources

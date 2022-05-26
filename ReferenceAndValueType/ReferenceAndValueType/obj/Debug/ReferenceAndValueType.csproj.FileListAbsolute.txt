@@ -1,0 +1,8 @@
+C:\Users\sinan\source\repos\ReferenceAndValueType\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.exe.config
+C:\Users\sinan\source\repos\ReferenceAndValueType\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.exe
+C:\Users\sinan\source\repos\ReferenceAndValueType\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.pdb
+C:\Users\sinan\source\repos\ReferenceAndValueType\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.csproj.AssemblyReference.cache
+C:\Users\sinan\source\repos\ReferenceAndValueType\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinan\source\repos\ReferenceAndValueType\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.csproj.CoreCompileInputs.cache
+C:\Users\sinan\source\repos\ReferenceAndValueType\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.exe
+C:\Users\sinan\source\repos\ReferenceAndValueType\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.pdb

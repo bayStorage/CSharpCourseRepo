@@ -1,0 +1,8 @@
+C:\Users\sinan\source\repos\Collections\Collections\obj\Debug\Collections.csproj.AssemblyReference.cache
+C:\Users\sinan\source\repos\Collections\Collections\obj\Debug\Collections.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinan\source\repos\Collections\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\sinan\source\repos\Collections\Collections\bin\Debug\Collections.exe.config
+C:\Users\sinan\source\repos\Collections\Collections\bin\Debug\Collections.exe
+C:\Users\sinan\source\repos\Collections\Collections\bin\Debug\Collections.pdb
+C:\Users\sinan\source\repos\Collections\Collections\obj\Debug\Collections.exe
+C:\Users\sinan\source\repos\Collections\Collections\obj\Debug\Collections.pdb
