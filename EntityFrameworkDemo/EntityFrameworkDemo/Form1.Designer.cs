@@ -46,6 +46,8 @@
             this.lblunitPrice = new System.Windows.Forms.Label();
             this.tbxUnitPrice = new System.Windows.Forms.TextBox();
             this.dgwProducts = new System.Windows.Forms.DataGridView();
+            this.tbxSearch = new System.Windows.Forms.TextBox();
+            this.lblSearch = new System.Windows.Forms.Label();
             this.gbxUpdate.SuspendLayout();
             this.gbxAdd.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgwProducts)).BeginInit();
@@ -53,12 +55,13 @@
             // 
             // btnRemove
             // 
-            this.btnRemove.Location = new System.Drawing.Point(561, 21);
+            this.btnRemove.Location = new System.Drawing.Point(513, 317);
             this.btnRemove.Name = "btnRemove";
-            this.btnRemove.Size = new System.Drawing.Size(75, 23);
+            this.btnRemove.Size = new System.Drawing.Size(105, 23);
             this.btnRemove.TabIndex = 11;
             this.btnRemove.Text = "Remove";
             this.btnRemove.UseVisualStyleBackColor = true;
+            this.btnRemove.Click += new System.EventHandler(this.btnRemove_Click);
             // 
             // gbxUpdate
             // 
@@ -85,6 +88,7 @@
             this.btnUpdate.TabIndex = 7;
             this.btnUpdate.Text = "Update";
             this.btnUpdate.UseVisualStyleBackColor = true;
+            this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
             // 
             // lblNameUpdate
             // 
@@ -108,6 +112,7 @@
             this.tbxNameUpdate.Name = "tbxNameUpdate";
             this.tbxNameUpdate.Size = new System.Drawing.Size(100, 24);
             this.tbxNameUpdate.TabIndex = 2;
+            this.tbxNameUpdate.TextChanged += new System.EventHandler(this.tbxNameUpdate_TextChanged);
             // 
             // lblStockAmountUpdate
             // 
@@ -159,6 +164,7 @@
             this.btnAdd.TabIndex = 7;
             this.btnAdd.Text = "Add";
             this.btnAdd.UseVisualStyleBackColor = true;
+            this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
             // 
             // lblName
             // 
@@ -210,29 +216,53 @@
             // 
             // dgwProducts
             // 
+            this.dgwProducts.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dgwProducts.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgwProducts.Location = new System.Drawing.Point(41, 47);
+            this.dgwProducts.Location = new System.Drawing.Point(41, 40);
             this.dgwProducts.Name = "dgwProducts";
-            this.dgwProducts.Size = new System.Drawing.Size(503, 254);
+            this.dgwProducts.Size = new System.Drawing.Size(577, 254);
             this.dgwProducts.TabIndex = 9;
+            this.dgwProducts.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgwProducts_CellClick);
+            // 
+            // tbxSearch
+            // 
+            this.tbxSearch.Location = new System.Drawing.Point(474, 14);
+            this.tbxSearch.Name = "tbxSearch";
+            this.tbxSearch.Size = new System.Drawing.Size(144, 20);
+            this.tbxSearch.TabIndex = 13;
+            this.tbxSearch.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+            // 
+            // lblSearch
+            // 
+            this.lblSearch.AutoSize = true;
+            this.lblSearch.Location = new System.Drawing.Point(418, 17);
+            this.lblSearch.Name = "lblSearch";
+            this.lblSearch.Size = new System.Drawing.Size(41, 13);
+            this.lblSearch.TabIndex = 14;
+            this.lblSearch.Text = "Search";
+            this.lblSearch.Click += new System.EventHandler(this.label1_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(653, 545);
+            this.Controls.Add(this.lblSearch);
+            this.Controls.Add(this.tbxSearch);
             this.Controls.Add(this.btnRemove);
             this.Controls.Add(this.gbxUpdate);
             this.Controls.Add(this.gbxAdd);
             this.Controls.Add(this.dgwProducts);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.gbxUpdate.ResumeLayout(false);
             this.gbxUpdate.PerformLayout();
             this.gbxAdd.ResumeLayout(false);
             this.gbxAdd.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgwProducts)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -256,6 +286,8 @@
         private System.Windows.Forms.Label lblunitPrice;
         private System.Windows.Forms.TextBox tbxUnitPrice;
         private System.Windows.Forms.DataGridView dgwProducts;
+        private System.Windows.Forms.TextBox tbxSearch;
+        private System.Windows.Forms.Label lblSearch;
     }
 }
 
